@@ -1,2 +1,1 @@
 echo "dd";
-echo "test";
